@@ -5,6 +5,6 @@
 
 - BR Feel free to checkout my [portfolio website](https://joeladeniyi.dev)!
 - 👨🏽‍💻 Software Engineer (Full Stack) @NG, Abuja
-- ⚙️ I build with: Python Django, JavaScript, Next.js, Gatsby.js, MUI, Tailwind ...
+- ⚙️ I build with: Express, JavaScript, Node.js, React, Boostrap, SCSS...
 - ⚡ I enjoy photography, travelling, playing basketball, and lifting weights :)
 - 📩 Reach out to me: joeladeniyi@protonmail.com
